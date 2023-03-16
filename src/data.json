@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name": "GOIL PLC",
+        "City": "Dansoman",
+        "fuel_prices": [
+            {
+                "super": 13.5,
+                "diesel": 15.00,
+                "Kerosine": 9.00
+            }
+        ]
+    },
+
+    {
+        "id":1,
+        "name": "GOIL PLC",
+        "City": "Accra",
+        "fuel_prices": [
+            {
+                "super": 13.5,
+                "diesel": 15.00,
+                "Kerosine": 9.00
+            }
+        ]
+    },
+
+    {
+        "id":1,
+        "name": "SHELL",
+        "City": "Dansoman",
+        "fuel_prices": [
+            {
+                "super": 13.5,
+                "diesel": 15.00,
+                "Kerosine": 9.00
+            }
+        ]
+    },
+
+
+    {
+        "id":1,
+        "name": "DUKE'S",
+        "City": "Kaneshi",
+        "fuel_prices": [
+            {
+                "super": 13.0,
+                "diesel": 15.00,
+                "Kerosine": 9.00
+            }
+        ]
+    },
+
+
+    {
+        "id":1,
+        "name": "SHELL",
+        "City": "Odorkor",
+        "fuel_prices": [
+            {
+                "super": 12.5,
+                "diesel": 14.00,
+                "Kerosine": 10.00
+            }
+        ]
+    },
+
+
+
+    {
+        "id":1,
+        "name": "GOIL PLC",
+        "City": "Mallam Junction",
+        "fuel_prices": [
+            {
+                "super": 13.5,
+                "diesel": 15.00,
+                "Kerosine": 9.00
+            }
+        ]
+    },
+
+    {
+        "id":1,
+        "name": "DUKE'S",
+        "City": "Circle",
+        "fuel_prices": [
+            {
+                "super": 13.2,
+                "diesel": 14.90,
+                "Kerosine": 7.00
+            }
+        ]
+    }
+
+    
+]
