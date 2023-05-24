@@ -11,7 +11,7 @@ const Map = () => {
     try {
       const getInitialData = async () => {
         const res = await fetch(
-          `https://geo.ipify.org/api/v2/country,city,vpn?apiKey=${API_KEY}&ipAddress`
+          https://geo.ipify.org/api/v2/country,city,vpn?apiKey=at_wDaLp08v3x8ZtN9iUkbZ7CUSUlEW1&ipAddress`
         );
         const data = await res.json();
         setAddress(data);
